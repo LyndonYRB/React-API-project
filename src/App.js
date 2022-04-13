@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+// import React from 'react';
+// import { useState } from 'react';
+// import "./App.css";
+// import Background from './Background';
+// import Name from './Name';
+// import Info from './Info';
+// import Gps from './Gps';
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='body'>
+      <Name />
+      <Background />
+      <Gps />
+      <Info />
+
+
     </div>
   );
 }
