@@ -1,0 +1,25 @@
+
+.random-country{
+ text-align: center;
+
+}
+.country-name{
+  font-size: 40px;
+  margin-top: -20px;
+}
+.bing-image{
+  width: 450px;
+  height: 350px;
+  left: 16rem;
+ margin-top: -70px;
+  
+}
+.image-block{
+  text-align: center;
+}
+.info{
+  text-align: left;
+  top: 30rem;
+  font-size: 30px;
+  
+}
