@@ -19,7 +19,7 @@ function RandomCountry({country}) {
         
         
       </div>
-      <img className="bing-image" src={country.BingImages[0]} />
+      <img className="bing-image" src={country.BingImages} />
       
 </div>
 
