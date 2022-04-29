@@ -5,13 +5,13 @@
 }
 .country-name{
   font-size: 40px;
-  margin-top: -20px;
+  margin-top: -30px;
 }
 .bing-image{
   width: 450px;
   height: 350px;
   left: 16rem;
- margin-top: auto;
+ margin-top: -40px;
   
 }
 .image-block{
@@ -19,6 +19,7 @@
   margin: 5px;
 }
 .info{
+  margin: 15px;
   text-align: left;
   top: 30rem;
   font-size: 30px;
