@@ -1,6 +1,6 @@
 # Random country generator
 
-<img width="750" alt="img" src="/Users/macbook/sei/projects/react-api-project/Screen Shot 2022-04-29 at 3.29.55 PM.png">
+<img width="550" alt="img" src="https://github.com/LyndonYRB/react-api-project/blob/main/Screen%20Shot%202022-04-29%20at%203.29.55%20PM.png?raw=true">
 
 This is a front end project using React, With a click of the button it shows a random country.
 
